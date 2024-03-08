@@ -1,0 +1,5 @@
+spring:
+  datasouce:
+    username: root
+    password: williamson
+    url: jdbc:mysql://localhost:3306/spring_cloud_demo
